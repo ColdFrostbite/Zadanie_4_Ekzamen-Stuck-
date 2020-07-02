@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\user\source\repos\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\user\source\repos\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\user\source\repos\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\user\source\repos\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\user\source\repos\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
